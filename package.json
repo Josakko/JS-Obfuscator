@@ -1,0 +1,22 @@
+{
+  "name": "obfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg index.js -b -t node16-win-x64 --config package.json"
+  },
+  "pkg": {
+    "assets": ["icon.ico"]
+  },
+  "engines": {
+    "node": "16"
+  },
+  "keywords": [],
+  "author": "josakko",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.0.2"
+  }
+}
