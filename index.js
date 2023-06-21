@@ -74,11 +74,3 @@ options:
   `);
 }
 
-
-
-
-
-//C:\Users\Korisnik\AppData\Local\Programs\Python\Python311\Scripts\
-//C:\Users\Korisnik\AppData\Local\Programs\Python\Python311\
-//
-//python --version
